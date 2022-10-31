@@ -1,0 +1,95 @@
+
+DSA 1 Easy Level
+=====================================================
+1. Explain and implement selection sort
+2. Given an array, find pair sum
+3. Explain and Implement selection sort
+4. Which one is stable algorithm ? Selection sort or Insertion sort? justify.
+5. Remove duplicates from an array of integers
+6. Print the 1st non repeated element in the array
+7. Implementation of bubble sort(Easy Level)
+8. Prime number
+
+1. Merge sort implementation and its time complexity
+2. Binary search implementation and its time complexity
+3. How to find frequency of a given number in array
+4. Difference b/w Hashmap & Hashtable
+
+1. Type of searching paradigms
+2. Implementation of Binary search
+3. Repeated element in array
+4. Count the repeated element in array
+
+1. What is array
+2. How many types of array we have in java
+3. Disadvantages of using array
+4. WAP to sort the array
+5. What is searching
+6. What is the diff b/w linear search and binary search
+7. Quick sort implementation
+
+1. Check whether the two strings are anagram of each other or not
+2. Sort the array into a wave-like array and return it
+
+1. Remove duplicates from the array
+2. Implement Selection sort
+3. Implement Merg sort
+
+1. write a code to find a number along with index using recursion technique
+2. Binary search code
+3. Bubble sort
+
+1. Advantages and Disadvantages of Array
+2. What is the diff b/w linear and non-linear data structure? Give Examples?
+3. Is array is a linear data structure?
+4. Can you tell me the diff b/w array and linkedlist?
+5. Different searching algorithms
+6. Calculate the min, max and second max element in an array
+7. Sort an array using bubble sort algorithm
+8. What are different sorting algorithms. Comparison of them
+9. Time Complexity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DSA 1 Hard Level
+=======================================
+1. What is algorithms?
+2. What is data structures?
+3. what is array?
+4. Diff b/w array and linkedlist
+5. What is hashing?
+6. Diff b/w linear search and binary search
+7. https://leetcode.com/problems/first-missing-positive/
+8. https://leetcode.com/problems/3sum/
+
+
+1. Program to find product of the digits
+2. Array and manipulations
+3. Insertion sort and its working
+4. Time Complexity of basic Sorting techniques
+5. Does java has pointers?
+6. Bubble and Selection sort
+7. Coding on Arrays
+8. Hashing - Hashmaps & hashsets & their implementation

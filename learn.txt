@@ -1,0 +1,6 @@
+1. Learn one programming language
+2. Learn DSA and do competitive coding
+3. Understanding with computer science fundamentals
+4. Frontend(HTMl,CSS, React)
+5. Backend(Database,Spring,Node.js)
+6. Building a good project

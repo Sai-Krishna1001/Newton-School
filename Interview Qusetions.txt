@@ -1,0 +1,4 @@
+Interview Questions:
+====================================
+1. Diff b/w Algorithm and Program.
+2. Diff b/w Algorithm and Data Structure.
